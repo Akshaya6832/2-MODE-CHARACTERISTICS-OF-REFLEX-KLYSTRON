@@ -64,6 +64,10 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 2.	By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾	 with V2 = N2 = (n +1) + ¾	with V1 = N1 & N2 are respective modes numbers.
 3.	ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
 
+**Graph:**
+
+![WhatsApp Image 2025-11-09 at 06 18 10_ecca3900](https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4)
+
 **Precautions:**
 
 4.	Check the connections before switching on the kit.
@@ -80,8 +84,3 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 **Result:**
    	
 Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
-
-**Graph:**
-
-![WhatsApp Image 2025-11-09 at 06 18 10_ecca3900](https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4)
-
